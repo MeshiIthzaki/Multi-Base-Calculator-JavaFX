@@ -1,4 +1,4 @@
-# Base Conversion and Arithmetic Calculator
+# 🔢 Base Conversion and Arithmetic Calculator
 
 ## Overview
 
